@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/razahmadraza/basic_project.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/razahmadraza/basic_project.git/static/js/main.e64c15d7.chunk.js",
+    "main.js.map": "/razahmadraza/basic_project.git/static/js/main.e64c15d7.chunk.js.map",
+    "runtime-main.js": "/razahmadraza/basic_project.git/static/js/runtime-main.f3231f49.js",
+    "runtime-main.js.map": "/razahmadraza/basic_project.git/static/js/runtime-main.f3231f49.js.map",
+    "static/js/2.abb724dc.chunk.js": "/razahmadraza/basic_project.git/static/js/2.abb724dc.chunk.js",
+    "static/js/2.abb724dc.chunk.js.map": "/razahmadraza/basic_project.git/static/js/2.abb724dc.chunk.js.map",
+    "index.html": "/razahmadraza/basic_project.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/razahmadraza/basic_project.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.abb724dc.chunk.js.LICENSE.txt": "/razahmadraza/basic_project.git/static/js/2.abb724dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3231f49.js",
+    "static/js/2.abb724dc.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e64c15d7.chunk.js"
+  ]
+}

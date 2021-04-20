@@ -2,4 +2,4 @@ SAMPLE_COUNTER_PROJECT
 
 INSTALL ALL THE COMPONENT
 
-create a file called Counter.js
+create game called Tic-toe

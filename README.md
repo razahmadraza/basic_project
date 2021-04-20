@@ -2,6 +2,10 @@
 
 INSTALL ALL THE COMPONENT
 
+react-tic-tac-toe
+
+React Tic Tac Toe Game using Functional Components and Hooks
+
 create game called Tic-toe
 
 there file called Component

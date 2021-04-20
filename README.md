@@ -1,4 +1,4 @@
-SAMPLE_COUNTER_PROJECT
+
 
 INSTALL ALL THE COMPONENT
 
@@ -14,4 +14,3 @@ in src file we have
     1.index
     2.app
     3.helper
-    
